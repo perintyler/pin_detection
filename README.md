@@ -1,22 +1,3 @@
-<p>
-<b>Disclaimer for David</b>
-I have a 99% solution here, but I discovered an edge case,
-which I call a 'replacement pin' (see Pin Type section below), which isn't
-compatible with my current solution. Following the discovery of replacement
-pins, I came up with a new solution (description at bottom of README), which
-will ensure correctness. I thought it would be wise to send you the current
-solution with the intention of updating the solution as soon as I have the time.
-
-I've been unexpectedly swamped with work from all angles this week, but I think
-this position/company is perfect for me, so I want to make sure I present my
-best work. I'm hoping to find enough time to update the solution tomorrow.
-
-Enjoy the holiday!
-
-</p>
-
-- - - -
-
 <h1> Pin Detection </h1>
 
 Finds new pins that arise following a made move in a given position.
